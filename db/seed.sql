@@ -7,7 +7,7 @@ VALUES
 ("Food Services"),
 ("Arts"),
 ("Athletics"),
-("Foreign Languages"),
+("Foreign Languages");
 
 
 INSERT INTO role (title, salary, department_id)
